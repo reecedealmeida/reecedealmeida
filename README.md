@@ -60,7 +60,7 @@ My background includes high-powered student rocketry, a Python-based Raspberry P
 <a href="https://reecedealmeida.com">
   <img src="https://img.shields.io/badge/Portfolio-17365D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
-<a href="www.linkedin.com/in/reece-dealmeida-5b3359325">
+<a href="https://www.linkedin.com/in/reece-dealmeida-5b3359325">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:reece.dealmeida@yahoo.com">
